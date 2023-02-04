@@ -4,4 +4,4 @@
 Resolution Is Not Fixed
 
 
-Full-Site:https://onlydarkshop.netlify.app/compiuters.html
+Full-Site:https://onlydarkshop.netlify.app/index.html
